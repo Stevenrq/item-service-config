@@ -1,0 +1,5 @@
+config:
+  text: This is a configuration using development profile.
+  author:
+    name: Steven
+    email: stevenrq8@gmail.com
